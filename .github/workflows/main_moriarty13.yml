@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'moriarty13'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8ebc771f880a4532aea0ba5aa057965d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_726aacec56684c06a2e532b01a8393b0 }}
         package: .
